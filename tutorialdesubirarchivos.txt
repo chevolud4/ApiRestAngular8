@@ -1,0 +1,9 @@
+Pasos para GITHUB:
+1- crear una carpeta.
+2- En la carpeta Entrar a CMD
+3- colocar el siguiente comando: 
+	- git clone https://github.com/chevolud4/ApiRestAngular8.git
+4- Con git status dentro de carpeta creada podremos ver los cambios que se hayan hecho
+5-Si le damos git add Holamundo.txt se añadira en la zona del gitarea
+6-usar git diff para ver los cambios en el documento, pero que no se han agregar al git Area
+7- se puede utilizar git add . para agregar todos los cambios, o git add holamundo.txt
